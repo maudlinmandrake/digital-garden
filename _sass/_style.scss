@@ -134,3 +134,11 @@ code {
   border-bottom: none;
   font-weight: 700;
 }
+
+.nav {
+  display: flex;
+}
+
+.site-name {
+  flex: 1;
+}
