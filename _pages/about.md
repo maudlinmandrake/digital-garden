@@ -20,3 +20,9 @@ In the lull of the 2020 pandemic, I decided to go back to my first love of compu
 2. I'm an avid 📓 journaler and have been writing steadily since I was 18. I have a pile of notebooks in my office that sits about a foot and a half tall.
 3. I love 🏋️‍♀️ powerlifting, and in the spring of 2019 my husband and I built a home gym in our basement so we'd never have to wait for the power rack ever again.
 4. I'm a voracious 📚 reader, which as a kid got me in a lot of trouble (I snuck out of bed to read by my nightlight) AND a lot of free pizzas (through the infamous Pizza Hut Book It! program). I average about 60-70 books a year, and favor sci-fi, fantasy, and non-fiction.
+
+<style>
+  .wrapper {
+    max-width: 46em;
+  }
+</style>
