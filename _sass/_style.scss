@@ -73,8 +73,9 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Press Start 2P';
-  line-height: 2;
+  font-family: 'Fredoka One';
+  line-height: 1.5;
+  letter-spacing: 2px;
   margin-bottom: 0;
   padding-bottom: 0;
 }
@@ -152,6 +153,12 @@ code {
 
 .site-name {
   flex: 1;
+}
+
+// Special effects for fonts =====================================================================
+.big {
+  font-size: 6rem;
+  letter-spacing: 5px;
 }
 
 .rainbow {
