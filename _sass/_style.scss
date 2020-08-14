@@ -6,6 +6,9 @@ $color-box-background: mix($color-primary, white, 4%);
 $border-radius: 4px;
 $font-family: "Fira Code";
 
+// TODO: Add dark mode/light mode switch for accessibility
+
+
 body {
   box-sizing: content-box;
   font-family: $font-family;
