@@ -6,7 +6,7 @@ permalink: /
 ---
 
 # <span class="rainbow">Jenny Mikac</span>
-### is an artist, writer and coder thinking about raising good human beings, mindful productivity, creativity, and putting the <span style="color: #EF4E7B">soft</span> in software.
+### is an artist, writer and coder thinking about raising good human beings, mindful productivity, creativity, and putting the <span style="color: #ffb6b9">soft</span> in software.
 
 
 test link to note [[Your first seed]]
