@@ -36,6 +36,10 @@ em {
 strong {
   font-family: "Victor Mono Bold";
 }
+
+strong > em {
+  font-family: "Victor Mono Bold Italic";
+}
 // Main elements =========================================================================
 
 body {
