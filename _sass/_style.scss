@@ -6,7 +6,8 @@ $color-box-background: mix($color-primary, white, 4%);
 $border-radius: 4px;
 $font-family: "Fira Code";
 
-// Custom fonts
+// Custom fonts ==========================================================================
+
 @font-face {
   font-family: "Victor Mono";
   src: url("/assets/fonts/VictorMono-Regular.ttf");
@@ -17,6 +18,7 @@ $font-family: "Fira Code";
   src: url("/assets/fonts/VictorMono-Italic.ttf");
 }
 
+
 @font-face {
   font-family: "Victor Mono Bold";
   src: url("/assets/fonts/VictorMono-Bold.ttf");
@@ -26,6 +28,15 @@ $font-family: "Fira Code";
   font-family: "Victor Mono Bold Italic";
   src: url("/assets/fonts/VictorMono-BoldItalic.ttf");
 }
+
+em {
+  font-family: "Victor Mono Italic";
+}
+
+strong {
+  font-family: "Victor Mono Bold";
+}
+// Main elements =========================================================================
 
 body {
   box-sizing: content-box;
@@ -44,9 +55,7 @@ body {
   }
 }
 
-em {
-  font-family: "Victor Mono Italic";
-}
+
 
 time {
   display: block;
