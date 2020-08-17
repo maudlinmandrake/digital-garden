@@ -11,6 +11,8 @@ permalink: /
 
 My interests lie in the strange intersection of art, technology and mental health (my education is in social work), and this little homestead serves as a space for me to explore, learn, and tend to this weird little <span style="color: #6DBA82">🌿 _garden_</span> of thoughts. **More** about me [here](./about){: .internal-link}.
 
+This is not a typical blog. It's a digital garden. There's no hierarchy. There's no linear order. You explore it through links; a little like getting lost in the woods. You can start here, with something I wrote about [[Showing up every day, softly]]. None of the writing is set in stone; things are loose and wiggly around here. Page dates will reflect when I last updated my thoughts. Good luck out there 🔍
+
 <style>
   .wrapper {
     max-width: 46em;
