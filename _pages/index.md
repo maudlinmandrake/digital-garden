@@ -7,7 +7,7 @@ permalink: /
 
 # <span class="big"><em>Jenny Mikac</em></span>
 
-## is an 🎨 <span style="color: grey">artist</span> who ✍️ <span style="color: grey">writes</span>.
+## is an ✥ <span style="color: grey">artist</span> who ✺ <span style="color: grey">writes</span>.
 
 You can read **more** [about me](./about){: .internal-link} or go to [Right Now](/right-now){: .internal-link} to see what I'm currently up to. If you'd like to see my art, you can find it all on my [Instagram](http://www.instagram.com/ykantjennypaint.jpg). I have art available at my [print shop](https://jrm.threadless.com/) if you're looking to spruce up your bedroom walls. I'm an unsatiable maw when it comes to reading, you can [check out my list](https://beta.readng.co/user/jennymikac) to see what I'm currently reading and have read in the past.
 
