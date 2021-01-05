@@ -6,6 +6,8 @@ permalink: /writing
 
 ## Mindfulness
 
-[[You must befriend the inner critic]]
+[[You must befriend the inner critic]] ❊ [[Showing up every day, softly]]
 
-[[Showing up every day, softly]]
+## Parenting
+
+[[Manifesto of the idle parent]]

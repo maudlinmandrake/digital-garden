@@ -1,2 +1,0 @@
-# Showing up Every Day
-
